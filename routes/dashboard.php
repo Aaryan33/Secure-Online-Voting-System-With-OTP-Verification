@@ -16,7 +16,7 @@
 
 <html>
     <head>
-        <title>Online voting system - Dashboard</title>
+        <title>Secure Online Voting System - Dashboard</title>
         <link rel="stylesheet" href="../css/stylesheet.css">
     </head>
     <body>
@@ -25,7 +25,7 @@
             <div id="headerSection">
             <a href="../"><button id="back-button"> Back</button></a>
             <a href="logout.php"><button id="logout-button">Logout</button></a>
-            <h1>Online Voting System</h1>  
+            <h1>Secure Online Voting System</h1>  
             </div>
             </center>
             <hr>

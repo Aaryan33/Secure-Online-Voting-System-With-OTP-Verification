@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Online voting system - Registratrion</title>
+        <title>Secure Online Voting System - Registratrion</title>
         <link rel="stylesheet" href="../css/stylesheet.css">
     </head>
     <style>
@@ -106,7 +106,7 @@
     <body>
         <center>
             <div id="headerSection">
-            <h1>Online Voting System</h1>  
+            <h1>Secure Online Voting System</h1>  
             </div>
             <hr>
 

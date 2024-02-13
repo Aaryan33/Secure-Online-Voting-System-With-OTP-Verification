@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Online voting system - Home</title>
+        <title>Secure Online Voting System - Home</title>
         <link rel="stylesheet" href="css/stylesheet.css">
         <style>
            *
@@ -104,7 +104,7 @@
         
             <center>
             <div id="headerSection">
-            <h1>Online Voting System</h1>  
+            <h1>Secure Online Voting System</h1>  
             </div>
             <hr>
            
