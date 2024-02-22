@@ -28,8 +28,6 @@ The "Secure Online Voting System With OTP Verification" project is designed to r
 
 -> HTML
 
--> JavaScript
-
 -> CSS
 
 -> phpMyAdmin / MySQL
